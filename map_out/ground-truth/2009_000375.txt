@@ -1,0 +1,7 @@
+sofa 1 383 200 500
+person 1 187 178 447
+person 230 47 332 452
+person 1 144 129 260
+person 30 1 159 228
+person 150 1 222 192
+person 189 1 271 149

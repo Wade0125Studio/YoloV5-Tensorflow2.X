@@ -1,0 +1,6 @@
+aeroplane 150 91 414 275
+person 378 195 396 229
+person 202 244 213 270 difficult
+person 169 207 177 231 difficult
+person 112 270 127 296 difficult
+person 103 268 116 294 difficult

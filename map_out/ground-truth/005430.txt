@@ -1,0 +1,3 @@
+bottle 192 181 219 215 difficult
+bicycle 110 127 295 266
+person 213 30 356 284

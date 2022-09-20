@@ -1,0 +1,10 @@
+bicycle 1 128 162 281
+bicycle 116 95 371 319
+bicycle 252 108 472 359
+person 182 23 325 292
+car 363 4 415 24
+car 451 3 486 22
+bottle 408 202 452 236
+bottle 350 165 365 186 difficult
+bottle 203 123 232 157 difficult
+bottle 1 163 28 199 difficult

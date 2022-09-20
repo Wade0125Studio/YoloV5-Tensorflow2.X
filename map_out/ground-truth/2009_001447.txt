@@ -1,0 +1,16 @@
+diningtable 247 274 500 375
+chair 1 238 203 375
+chair 435 211 484 280
+diningtable 210 191 255 217
+person 20 89 79 224
+pottedplant 294 104 303 119
+pottedplant 275 95 293 119
+pottedplant 216 93 254 120
+chair 270 209 442 279
+person 134 144 163 170
+person 375 143 394 164
+person 243 137 272 183
+person 232 122 312 258
+person 292 94 414 279
+person 41 113 250 375
+pottedplant 68 152 100 206

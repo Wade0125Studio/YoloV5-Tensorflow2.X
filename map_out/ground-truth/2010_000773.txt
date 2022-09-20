@@ -1,0 +1,6 @@
+pottedplant 167 40 227 133
+person 232 77 275 128
+tvmonitor 129 204 247 317
+person 1 104 16 151 difficult
+person 10 97 34 144
+person 4 84 18 111 difficult

@@ -1,0 +1,5 @@
+car 118 41 480 300
+car 126 54 162 81 difficult
+person 2 25 163 360
+bottle 279 307 310 360 difficult
+person 438 177 480 360 difficult

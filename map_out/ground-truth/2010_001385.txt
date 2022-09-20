@@ -1,0 +1,3 @@
+cat 154 49 397 282
+person 1 111 123 375
+chair 114 21 152 70 difficult

@@ -1,0 +1,7 @@
+boat 324 221 445 314 difficult
+pottedplant 336 186 441 227
+chair 61 255 176 375 difficult
+diningtable 1 278 117 375 difficult
+person 61 172 233 372
+sofa 443 262 500 375 difficult
+dog 345 303 443 375

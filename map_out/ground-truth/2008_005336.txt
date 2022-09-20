@@ -1,0 +1,11 @@
+person 182 11 500 375
+chair 233 269 500 375 difficult
+chair 408 138 489 225 difficult
+dog 71 215 132 361
+car 181 139 231 174
+car 417 121 457 151
+person 3 19 106 365
+car 131 143 172 162 difficult
+person 5 83 107 163
+dog 137 235 227 306 difficult
+car 238 133 292 170 difficult

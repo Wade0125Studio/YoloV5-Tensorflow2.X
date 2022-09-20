@@ -1,0 +1,4 @@
+tvmonitor 1 9 47 114
+person 76 54 207 375
+person 222 22 500 317
+sofa 179 96 500 375 difficult

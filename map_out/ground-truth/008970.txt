@@ -1,0 +1,2 @@
+pottedplant 252 81 371 242
+tvmonitor 65 77 190 204

@@ -1,0 +1,9 @@
+diningtable 132 253 302 375
+person 385 60 500 375
+person 286 170 419 375
+person 132 177 234 262
+person 25 171 175 375
+chair 376 261 460 375 difficult
+chair 1 262 68 375 difficult
+bottle 407 190 452 255
+bottle 237 221 255 284

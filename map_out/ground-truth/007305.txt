@@ -1,0 +1,15 @@
+motorbike 343 113 463 181
+motorbike 58 134 213 233
+person 128 113 188 234
+person 398 85 445 184
+car 442 65 489 99
+car 393 74 434 99 difficult
+car 347 63 408 101
+car 303 67 348 102
+car 263 70 305 101
+car 219 72 263 103
+motorbike 147 84 175 103 difficult
+car 104 75 165 105
+car 53 82 108 104
+car 22 81 72 105
+car 1 81 38 106 difficult

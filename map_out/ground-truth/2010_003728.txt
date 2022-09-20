@@ -1,0 +1,5 @@
+tvmonitor 197 95 288 179
+pottedplant 162 87 311 265
+person 43 148 71 233 difficult
+pottedplant 267 197 423 310
+chair 351 208 473 303

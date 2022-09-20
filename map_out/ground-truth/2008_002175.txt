@@ -1,0 +1,4 @@
+diningtable 375 251 500 333 difficult
+chair 363 260 460 375
+chair 353 217 449 373
+chair 469 289 500 375 difficult

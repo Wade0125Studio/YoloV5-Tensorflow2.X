@@ -1,0 +1,4 @@
+horse 107 19 417 333
+cow 487 149 500 168 difficult
+cow 429 146 486 177
+cow 358 152 378 171 difficult

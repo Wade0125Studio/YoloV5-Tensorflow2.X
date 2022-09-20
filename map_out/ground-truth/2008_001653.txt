@@ -1,0 +1,8 @@
+cow 141 294 307 430
+cow 28 266 62 281 difficult
+cow 48 269 92 281 difficult
+cow 140 265 155 280 difficult
+cow 254 266 282 278 difficult
+cow 266 244 286 257 difficult
+cow 213 240 232 257 difficult
+cow 36 250 52 269 difficult

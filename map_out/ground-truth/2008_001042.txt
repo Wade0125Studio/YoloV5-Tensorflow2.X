@@ -1,0 +1,8 @@
+car 428 274 500 351
+car 285 272 469 342
+car 210 269 331 332
+car 69 263 213 320
+car 1 284 62 372
+car 1 353 226 375 difficult
+car 162 262 189 278 difficult
+car 299 242 366 271 difficult

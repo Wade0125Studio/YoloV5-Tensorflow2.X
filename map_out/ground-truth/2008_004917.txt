@@ -1,0 +1,3 @@
+aeroplane 3 74 494 214
+aeroplane 1 124 58 171 difficult
+car 414 179 438 191

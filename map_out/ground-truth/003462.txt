@@ -1,0 +1,5 @@
+dog 134 187 316 375
+dog 196 41 337 242
+person 130 1 262 192
+person 306 2 461 101 difficult
+pottedplant 465 50 500 276 difficult

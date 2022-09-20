@@ -1,0 +1,5 @@
+car 53 157 448 359
+boat 15 61 99 156
+boat 202 83 258 160 difficult
+boat 332 110 372 153 difficult
+boat 423 148 461 163 difficult

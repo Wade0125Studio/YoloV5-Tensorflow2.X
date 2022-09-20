@@ -1,0 +1,5 @@
+bicycle 104 174 318 305
+person 150 114 296 262
+person 454 50 500 149
+chair 374 85 411 142 difficult
+bicycle 121 82 212 143

@@ -1,0 +1,6 @@
+sheep 122 120 262 191 difficult
+sheep 450 152 500 237 difficult
+sheep 421 83 489 187 difficult
+sheep 476 90 500 162 difficult
+person 183 69 247 261
+sheep 247 112 353 183

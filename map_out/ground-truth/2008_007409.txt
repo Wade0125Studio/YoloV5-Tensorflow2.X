@@ -1,0 +1,10 @@
+aeroplane 150 112 326 201
+car 422 161 500 259
+person 368 173 384 205
+person 56 164 77 226
+person 21 172 42 228
+car 37 177 63 192 difficult
+person 107 173 131 218
+person 132 169 141 197 difficult
+motorbike 97 192 151 223
+person 1 171 8 228 difficult

@@ -1,0 +1,16 @@
+person 0.0023 357 28 374 47
+bird 0.0037 357 27 374 49
+pottedplant 0.4630 54 87 310 488
+pottedplant 0.0258 33 81 218 389
+pottedplant 0.0256 170 163 291 322
+pottedplant 0.0253 0 8 52 103
+pottedplant 0.0047 170 1 374 114
+pottedplant 0.0037 40 45 72 81
+pottedplant 0.0032 13 26 69 89
+pottedplant 0.0027 196 167 287 254
+pottedplant 0.0025 176 147 369 336
+pottedplant 0.0019 37 37 100 92
+pottedplant 0.0016 38 41 68 67
+pottedplant 0.0012 134 60 308 343
+pottedplant 0.0012 16 130 148 429
+pottedplant 0.0011 41 -4 350 357

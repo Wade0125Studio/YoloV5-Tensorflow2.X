@@ -1,0 +1,15 @@
+chair 316 201 351 210 difficult
+chair 54 220 103 258
+chair 101 223 150 262
+chair 152 238 188 268 difficult
+chair 219 244 255 275 difficult
+chair 276 248 318 280 difficult
+chair 361 255 409 290 difficult
+chair 16 235 63 301
+chair 62 262 132 315
+chair 129 271 206 330
+chair 210 281 285 342
+chair 322 294 395 375
+chair 1 321 27 351 difficult
+chair 1 347 58 375 difficult
+tvmonitor 144 100 198 141

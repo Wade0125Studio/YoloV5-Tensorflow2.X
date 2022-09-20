@@ -1,0 +1,6 @@
+bus 207 188 241 216
+car 88 206 117 224
+car 249 204 263 217 difficult
+car 279 196 287 211 difficult
+car 271 209 376 244
+car 299 205 315 220 difficult

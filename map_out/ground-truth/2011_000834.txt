@@ -1,0 +1,9 @@
+bird 136 140 179 167
+bird 142 128 160 138 difficult
+sheep 329 168 429 255
+sheep 89 153 194 256
+person 35 33 44 52 difficult
+person 24 31 32 52 difficult
+person 18 31 26 45 difficult
+person 10 27 19 52 difficult
+person 1 29 10 47 difficult

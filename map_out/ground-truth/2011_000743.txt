@@ -1,0 +1,3 @@
+pottedplant 1 13 288 500
+pottedplant 1 433 117 500
+bottle 357 189 375 272 difficult

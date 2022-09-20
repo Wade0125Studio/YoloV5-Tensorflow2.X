@@ -1,0 +1,4 @@
+dog 98 115 324 375
+cow 1 1 156 173 difficult
+cow 150 1 496 174
+cow 442 1 500 75 difficult

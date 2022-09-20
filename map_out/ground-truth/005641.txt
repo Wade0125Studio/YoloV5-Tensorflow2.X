@@ -1,0 +1,5 @@
+dog 43 170 500 375
+dog 208 71 443 281
+sofa 112 42 500 375 difficult
+pottedplant 161 1 228 43
+tvmonitor 1 1 44 94 difficult

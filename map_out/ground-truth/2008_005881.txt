@@ -1,0 +1,8 @@
+bottle 188 180 244 257
+person 1 65 346 500
+person 1 125 97 234
+person 271 1 375 313
+chair 1 206 115 415
+chair 93 186 162 325
+person 111 13 194 122 difficult
+person 170 314 375 500 difficult

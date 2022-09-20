@@ -1,0 +1,20 @@
+person 80 88 405 375
+person 436 147 475 209
+person 381 145 428 191
+diningtable 402 219 500 375 difficult
+diningtable 347 177 405 216 difficult
+diningtable 160 167 203 188 difficult
+diningtable 104 185 209 279
+diningtable 1 322 82 375 difficult
+diningtable 2 169 53 225 difficult
+chair 408 241 500 375
+chair 49 178 135 279
+chair 135 164 167 188 difficult
+chair 150 184 233 290
+chair 19 167 65 231
+chair 56 163 95 209 difficult
+chair 97 177 152 203 difficult
+chair 184 166 231 194 difficult
+chair 196 181 240 208 difficult
+chair 400 178 454 232 difficult
+chair 1 169 32 174 difficult

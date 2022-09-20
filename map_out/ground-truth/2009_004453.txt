@@ -1,0 +1,5 @@
+train 1 1 220 375
+person 71 165 95 216
+person 71 116 95 175
+person 85 78 103 126
+person 102 95 110 121

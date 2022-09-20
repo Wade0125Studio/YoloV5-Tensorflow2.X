@@ -1,0 +1,4 @@
+motorbike 68 129 329 279
+motorbike 259 100 418 205
+person 52 48 108 228
+bottle 56 83 68 114

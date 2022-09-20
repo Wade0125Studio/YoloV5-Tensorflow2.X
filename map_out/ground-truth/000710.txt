@@ -1,0 +1,4 @@
+cat 143 177 225 270
+chair 188 182 303 464
+chair 36 367 280 500 difficult
+pottedplant 95 129 136 249

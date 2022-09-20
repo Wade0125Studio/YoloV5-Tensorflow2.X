@@ -1,0 +1,8 @@
+tvmonitor 294 109 341 142
+chair 340 163 482 311
+chair 190 188 274 344
+chair 124 190 192 347
+chair 54 206 132 372
+chair 57 177 118 222 difficult
+chair 185 171 221 217 difficult
+diningtable 2 201 225 311

@@ -1,0 +1,4 @@
+cat 141 166 375 484
+cat 11 118 288 484
+sofa 1 1 375 500 difficult
+bottle 302 10 316 49

@@ -1,0 +1,7 @@
+pottedplant 208 146 232 171
+pottedplant 360 176 382 210 difficult
+sofa 56 215 225 375
+chair 329 210 398 296
+chair 288 185 340 251
+chair 252 182 302 240
+chair 202 173 241 218

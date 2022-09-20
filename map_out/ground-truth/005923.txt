@@ -1,0 +1,19 @@
+bicycle 278 213 417 329
+bicycle 218 213 293 322
+bicycle 126 216 229 354
+person 168 170 221 287
+person 224 153 274 249
+person 310 142 387 308
+chair 207 86 232 104 difficult
+chair 206 94 234 127
+chair 270 92 296 103 difficult
+chair 277 98 308 126
+chair 299 110 337 147
+sofa 175 120 213 170
+pottedplant 284 160 308 192
+pottedplant 266 165 281 187 difficult
+pottedplant 316 107 338 171 difficult
+pottedplant 449 105 500 189
+pottedplant 376 63 409 124
+tvmonitor 394 39 413 60 difficult
+pottedplant 221 131 274 171

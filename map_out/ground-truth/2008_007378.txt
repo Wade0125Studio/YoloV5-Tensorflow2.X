@@ -1,0 +1,4 @@
+dog 22 136 359 295
+chair 296 1 500 201
+chair 38 1 185 92 difficult
+diningtable 106 1 337 146 difficult

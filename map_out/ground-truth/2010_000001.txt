@@ -1,0 +1,6 @@
+cat 123 13 341 313
+chair 294 13 410 236 difficult
+chair 418 198 500 290 difficult
+chair 362 1 498 80 difficult
+diningtable 1 219 500 333
+diningtable 1 1 234 188

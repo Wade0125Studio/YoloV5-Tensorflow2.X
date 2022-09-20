@@ -1,0 +1,7 @@
+sheep 227 55 500 324
+sheep 82 56 245 257
+bottle 76 42 129 151
+person 431 1 484 62 difficult
+person 311 1 427 71 difficult
+person 114 1 240 59
+person 1 1 132 329

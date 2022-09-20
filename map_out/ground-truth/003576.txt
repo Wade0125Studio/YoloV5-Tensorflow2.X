@@ -1,0 +1,8 @@
+bus 2 108 100 211 difficult
+bus 200 69 500 231
+motorbike 366 137 500 241
+person 407 100 480 219
+person 126 112 157 193
+person 171 112 203 192
+person 245 111 271 143
+person 224 116 246 144 difficult

@@ -1,0 +1,8 @@
+tvmonitor 356 88 429 143
+diningtable 199 162 275 195 difficult
+chair 178 165 224 221
+chair 1 165 60 246 difficult
+chair 227 174 287 240 difficult
+sofa 1 213 416 335
+bottle 399 143 407 169
+bottle 404 143 413 170

@@ -1,0 +1,6 @@
+aeroplane 336 49 418 85
+aeroplane 198 61 278 105
+aeroplane 210 135 291 170
+aeroplane 47 83 132 120
+aeroplane 81 140 160 175
+aeroplane 87 220 164 254

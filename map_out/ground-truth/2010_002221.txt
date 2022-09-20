@@ -1,0 +1,8 @@
+horse 1 68 499 397
+person 75 73 230 398
+person 384 224 446 398
+person 443 283 500 398
+person 216 187 269 252
+person 355 271 393 398 difficult
+person 480 238 500 269 difficult
+person 467 243 486 276 difficult

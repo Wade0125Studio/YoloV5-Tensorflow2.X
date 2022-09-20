@@ -1,0 +1,9 @@
+aeroplane 9 119 500 299
+person 306 19 328 69 difficult
+person 101 165 120 199 difficult
+person 369 154 385 168 difficult
+pottedplant 292 277 345 329
+pottedplant 93 41 118 67
+pottedplant 256 42 278 66
+pottedplant 346 44 366 67
+pottedplant 472 46 492 70

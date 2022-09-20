@@ -1,0 +1,3 @@
+dog 148 69 403 338
+dog 137 49 296 205
+person 336 1 421 81 difficult

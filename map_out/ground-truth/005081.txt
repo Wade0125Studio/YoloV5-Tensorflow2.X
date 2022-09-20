@@ -1,0 +1,12 @@
+horse 227 137 440 266
+dog 171 115 195 150
+person 114 65 210 222
+person 440 30 469 104
+person 414 29 430 97
+person 401 38 415 71 difficult
+person 335 32 359 104
+person 266 53 294 124
+person 259 35 279 116
+person 238 61 253 99
+person 208 61 231 119
+person 174 63 199 115 difficult

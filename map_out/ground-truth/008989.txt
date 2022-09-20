@@ -1,0 +1,9 @@
+bottle 144 167 190 220 difficult
+bottle 199 182 236 250
+bottle 221 153 277 206 difficult
+bottle 257 156 298 200 difficult
+bottle 295 188 336 232 difficult
+bottle 317 197 358 234
+bottle 342 195 388 232
+bottle 371 189 405 221 difficult
+bottle 387 186 420 220 difficult

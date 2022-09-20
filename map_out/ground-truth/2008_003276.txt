@@ -1,0 +1,7 @@
+dog 181 134 375 284
+bottle 382 54 411 101 difficult
+bottle 402 39 426 86
+bottle 368 38 397 84
+bottle 303 49 351 77
+bottle 357 22 386 65
+bottle 385 25 411 56 difficult

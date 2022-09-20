@@ -1,0 +1,6 @@
+train 1 145 241 248
+person 434 222 448 253 difficult
+person 320 209 329 245 difficult
+person 290 204 298 234 difficult
+person 280 203 286 231 difficult
+person 271 217 281 234 difficult

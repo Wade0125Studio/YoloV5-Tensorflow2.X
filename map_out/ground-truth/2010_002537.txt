@@ -1,0 +1,5 @@
+pottedplant 50 15 142 250
+pottedplant 54 54 148 190
+pottedplant 264 86 325 208
+pottedplant 310 49 368 209
+diningtable 1 231 500 297

@@ -1,0 +1,10 @@
+diningtable 1 144 385 375 difficult
+person 1 137 117 303
+person 47 76 155 242
+person 117 77 195 238
+person 173 73 229 186
+person 243 63 328 150
+person 339 69 401 198
+person 381 84 455 285
+person 400 134 500 375
+person 214 120 426 375

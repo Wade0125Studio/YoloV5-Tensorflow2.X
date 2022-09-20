@@ -1,0 +1,2 @@
+pottedplant 86 58 207 275
+person 91 159 125 239

@@ -1,0 +1,5 @@
+pottedplant 281 227 368 322
+pottedplant 42 188 225 348
+pottedplant 307 51 376 95
+sofa 91 83 479 308 difficult
+person 179 171 289 351

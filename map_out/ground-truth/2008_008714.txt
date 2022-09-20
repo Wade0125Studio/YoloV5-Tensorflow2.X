@@ -1,0 +1,7 @@
+dog 183 157 207 202
+sheep 262 173 376 285
+sheep 187 189 286 275
+sheep 298 175 416 267
+sheep 300 164 388 193 difficult
+sheep 279 168 307 188 difficult
+sheep 199 170 272 203 difficult

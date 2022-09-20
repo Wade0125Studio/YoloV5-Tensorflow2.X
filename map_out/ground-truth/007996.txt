@@ -1,0 +1,10 @@
+person 189 99 237 222
+person 118 187 199 267
+person 92 244 195 333
+person 198 220 357 333
+person 397 61 500 270
+chair 2 203 82 316 difficult
+chair 1 158 31 207 difficult
+sofa 189 113 351 240
+chair 349 196 431 287 difficult
+tvmonitor 419 91 437 108 difficult

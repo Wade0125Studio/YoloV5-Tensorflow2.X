@@ -1,0 +1,3 @@
+boat 249 205 325 235
+person 277 202 298 230 difficult
+boat 1 118 25 195 difficult
